@@ -3,7 +3,6 @@ import string
 import tkinter as tk
 from tkinter import messagebox
 
-
 # Функция генерации пароля на основе указанных параметров
 def generate_password(length, use_letters, use_digits, use_punctuation):
     # Создание строки символов на основе выбранных опций
