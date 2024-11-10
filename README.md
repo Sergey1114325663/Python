@@ -1,0 +1,1 @@
+This is a password generator with a graphical interface, I added some flags, length adjustment and also display of the complexity of the generated password. Copy the code to yourself and run the command "python password_generator.py"
